@@ -297,7 +297,7 @@ Item # | Description | Completed
 1d | What does `log` do? | Shows commit logs
 2a | 2nd Favorite emoji | 😱
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/tyleryandt18/learn-git-milestones/commits/main/README.md)
-2c | Full path to your working directory |
+2c | Full path to your working directory | `/Users/tyleryandt/Desktop/DIG245/Assignments/learn-git-milestones`
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from VS Code` |
