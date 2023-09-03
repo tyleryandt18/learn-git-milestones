@@ -299,7 +299,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/tyleryandt18/learn-git-milestones/commits/main/README.md)
 2c | Full path to your working directory | `/Users/tyleryandt/Desktop/DIG245/Assignments/learn-git-milestones`
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/compare/main...tyleryandt18:learn-git-milestones:main)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 🥰
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `first-website` github.com repo page |
 4a | Link to `first-website` github.io "project site" |
