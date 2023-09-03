@@ -301,7 +301,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/compare/main...tyleryandt18:learn-git-milestones:main)
 2e | 3rd Favorite emoji | 🥰
 2f | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/omundy/learn-git-milestones/compare/main...tyleryandt18:learn-git-milestones:main)
-3a | Link to `first-website` github.com repo page |
+3a | Link to `first-website` github.com repo page | [first-website repo page](https://github.com/tyleryandt18/first-website)
 4a | Link to `first-website` github.io "project site" |
 
 
