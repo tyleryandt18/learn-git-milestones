@@ -296,7 +296,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | [Link to markdown tables doc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 1d | What does `log` do? | Shows commit logs
 2a | 2nd Favorite emoji | 😱
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/tyleryandt18/learn-git-milestones/commits/main/README.md)
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
